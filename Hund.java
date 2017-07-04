@@ -12,4 +12,7 @@ public class Hund
     public Hund()
     {
     }
+    
+    public void bellen(){
+    }
 }
