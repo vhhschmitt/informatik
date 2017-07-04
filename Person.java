@@ -1,3 +1,4 @@
+// WARNING: This file is auto-generated and any changes to it will be overwritten
 
 /**
  * 
@@ -7,7 +8,6 @@ public class Person
     private int alter;
     private String name;
     private String beruf;
-
 
     /**
      * 
