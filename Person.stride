@@ -7,6 +7,7 @@
         <variable access="private" type="int" type-java="int" name="alter" enable="true"/>
         <variable access="private" type="String" type-java="String" name="name" enable="true"/>
         <variable access="private" type="String" type-java="String" name="beruf" enable="true"/>
+        <variable access="private" type="String" type-java="String" name="telefon" enable="true"/>
     </fields>
     <constructors>
         <constructor access="public" enable="true">
