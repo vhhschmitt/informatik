@@ -8,7 +8,7 @@ public class Person
     private int alter;
     private String name;
     private String beruf;
-    private String telefon;
+  
 
     /**
      * 
